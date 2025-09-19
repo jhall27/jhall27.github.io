@@ -86,6 +86,17 @@ iframe {
   max-width:100%;
 }
 
+.site-title {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px; 
+  text-align: center;
+}
+.site-title img {
+  height: 40px; /* adjust as needed */
+}
+
 /* Menu Links */
 ul.main-menu {
   margin: 0;
