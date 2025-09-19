@@ -4,13 +4,6 @@ permalink: /
 # **Jada Hall**
 > How this project works and how to maintain your own
 
-<div align="center">
-    <a href="https://github.com/MichaelCurrin/gh-pages-no-jekyll/generate">
-        <img src="https://img.shields.io/badge/Use_this_template-Generate-2ea44f?style=for-the-badge" alt="Use this template">
-    </a>
-</div>
-
-
 ## About
 Senior  Honors Computer Science student. 
 
@@ -32,16 +25,9 @@ The page you are currently viewing is `README.md` in the docs directory, with pa
 Some info on how to make a site like this and how it works.
 
 - [About](about.md)
-- [Features](features.md)
-- [Limitations](limitations.md)
-- [What about a Wiki?](wiki.md)
 
 
-## Source
-
-View source on GitHub:
-
-[![MichaelCurrin - gh-pages-no-jekyll](https://img.shields.io/static/v1?label=MichaelCurrin&message=gh-pages-no-jekyll&color=blue&logo=github)](https://github.com/MichaelCurrin/gh-pages-no-jekyll)
+## 
 
 
 ## Documentation template
