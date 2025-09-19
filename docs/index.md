@@ -1,6 +1,3 @@
----
-permalink: /
----
 # **Jada Hall**
 > How this project works and how to maintain your own
 
